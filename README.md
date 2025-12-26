@@ -1,1 +1,1 @@
-### webmachine template (meta)
+### Hypothesizing Machine (meta)
